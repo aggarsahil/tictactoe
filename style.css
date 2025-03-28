@@ -105,7 +105,7 @@ body{
     border-radius: 1rem;
 /*     background-color:rgb(96, 85, 252); */
      background-color:blue;
-    color: darkred;
+    color: aliceblue;
     &:hover{
         background-color:rgb(37, 219, 1);
     }
